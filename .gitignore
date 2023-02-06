@@ -348,3 +348,10 @@ hs_err_pid*
 .metals/
 .bloop/
 metals.sbt
+
+### project
+
+!project/lib/*.jar
+
+.stainless-cache/
+stainless-stack-trace.txt
